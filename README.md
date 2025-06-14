@@ -87,7 +87,7 @@ College of Engineering, Guindy
 Anna University, Chennai  
 Email: guharaj.ceg@gmail.com  
 LinkedIn: [linkedin.com/in/guharajmuralitharan](https://linkedin.com/in/guharajmuralitharan)  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/guharajceg2027)
 
 ---
 
